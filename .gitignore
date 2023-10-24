@@ -1,2 +1,4 @@
 */datasets
 *.DS_Store
+output
+tmp*
